@@ -1,3 +1,18 @@
+# Expense Tracker
+
+The Expense Tracker is a React-based application that allows users to manage their expenses. It provides a user-friendly interface to add, view, search, and sort expenses.
+
+## Features
+
+- **Expense Table**: Displays a table of all the user's expenses, including the description, category, amount, and date.
+- **Expense Form**: Allows users to add new expenses by filling out a form.
+- **Search Functionality**: Enables users to search for expenses by description or category.
+- **Sorting**: Allows users to sort the expenses table by description or category in ascending or descending order.
+- **Delete Expense**: Provides the ability to delete a specific expense from the table.
+
+## Installation
+
+1. Clone the repository:
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
